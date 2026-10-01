@@ -56,7 +56,7 @@ CSA-CPU-Sim-Lab/
    - **Ctrl+R** to run, or
    - **Ctrl+D** to enter debug mode and use **Step by Instr** / **Step by Micro**.
 6. For programs that read input, type a number in the yellow console and press **Enter**.
-**Example (Practical 3):** open `Practical_03_ADD/P03_ADD.a`, press Ctrl+2, then Ctrl+R, and enter `25` and `17`. The console shows `Output: 42`.
+7. **Example (Practical 3):** open `Practical_03_ADD/P03_ADD.a`, press Ctrl+2, then Ctrl+R, and enter `25` and `17`. The console shows `Output: 42`.
 
 ## Notes
 - Practical 2 uses the same machine file as Practical 1; its screenshots show the fetch routine executed one microinstruction at a time .
