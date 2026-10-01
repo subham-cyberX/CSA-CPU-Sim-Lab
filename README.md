@@ -15,17 +15,17 @@ Each practical has its own folder containing the program (where applicable) and 
 
 | No. | Practical | Folder |
 |---|---|---|
-| 1 | Create a machine based on the Basic Computer architecture | [Practical_01_Create_Machine](Practical_01_Create_Machine) |
-| 2 | Create the Fetch routine of the instruction cycle | [Practical_02_Fetch_Routine](Practical_02_Fetch_Routine) |
-| 3 | ADD operation on two user-entered numbers | [Practical_03_ADD](Practical_03_ADD) |
-| 4 | SUBTRACT operation on two user-entered numbers | [Practical_04_SUBTRACT](Practical_04_SUBTRACT) |
-| 5 | Logical operations AND, OR, NOT, XOR, NOR, NAND | [Practical_05_Logical_Ops](Practical_05_Logical_Ops) |
-| 6 | Memory-reference instructions ADD, LDA, STA, BUN, ISZ | [Practical_06_Memory_Reference](Practical_06_Memory_Reference) |
-| 7 | Register-reference instructions CLA, CMA, CME, HLT | [Practical_07_CLA_CMA_CME_HLT](Practical_07_CLA_CMA_CME_HLT) |
-| 8 | Register-reference instructions INC, SPA, SNA, SZE | [Practical_08_INC_SPA_SNA_SZE](Practical_08_INC_SPA_SNA_SZE) |
-| 9 | Register-reference instructions CIR, CIL | [Practical_09_CIR_CIL](Practical_09_CIR_CIL) |
-| 10 | Sum of integers until a negative number is read | [Practical_10_Sum_Until_Negative](Practical_10_Sum_Until_Negative) |
-| 11 | Sum of integers until zero is read | [Practical_11_Sum_Until_Zero](Practical_11_Sum_Until_Zero) |
+| 1 | Create a machine based on the Basic Computer architecture | [Practical_01_Create_Machine](CSA-CPU-Sim-Lab/Practical_01_Create_Machine) |
+| 2 | Create the Fetch routine of the instruction cycle | [Practical_02_Fetch_Routine](CSA-CPU-Sim-Lab/Practical_02_Fetch_Routine) |
+| 3 | ADD operation on two user-entered numbers | [Practical_03_ADD](CSA-CPU-Sim-Lab/Practical_03_ADD) |
+| 4 | SUBTRACT operation on two user-entered numbers | [Practical_04_SUBTRACT](CSA-CPU-Sim-Lab/Practical_04_SUBTRACT) |
+| 5 | Logical operations AND, OR, NOT, XOR, NOR, NAND | [Practical_05_Logical_Ops](CSA-CPU-Sim-Lab/Practical_05_Logical_Ops) |
+| 6 | Memory-reference instructions ADD, LDA, STA, BUN, ISZ | [Practical_06_Memory_Reference](CSA-CPU-Sim-Lab/Practical_06_Memory_Reference) |
+| 7 | Register-reference instructions CLA, CMA, CME, HLT | [Practical_07_CLA_CMA_CME_HLT](CSA-CPU-Sim-Lab/Practical_07_CLA_CMA_CME_HLT) |
+| 8 | Register-reference instructions INC, SPA, SNA, SZE | [Practical_08_INC_SPA_SNA_SZE](CSA-CPU-Sim-Lab/Practical_08_INC_SPA_SNA_SZE) |
+| 9 | Register-reference instructions CIR, CIL | [Practical_09_CIR_CIL](CSA-CPU-Sim-Lab/Practical_09_CIR_CIL) |
+| 10 | Sum of integers until a negative number is read | [Practical_10_Sum_Until_Negative](CSA-CPU-Sim-Lab/Practical_10_Sum_Until_Negative) |
+| 11 | Sum of integers until zero is read | [Practical_11_Sum_Until_Zero](CSA-CPU-Sim-Lab/Practical_11_Sum_Until_Zero) |
 
 ## Repository structure
 
